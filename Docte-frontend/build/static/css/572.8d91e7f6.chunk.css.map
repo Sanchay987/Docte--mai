@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/572.8d91e7f6.chunk.css","mappings":"AAEA,OACE,YAAa,CACb,qBAAsB,CACtB,WACF,CAEA,UACE,cACF","sources":["pages/error.css"],"sourcesContent":["@import url(../App.css);\r\n\r\n.error {\r\n  display: flex;\r\n  flex-direction: column;\r\n  height: 90vh;\r\n}\r\n\r\n.error h2 {\r\n  font-size: 3rem;\r\n}"],"names":[],"sourceRoot":""}
